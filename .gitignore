@@ -20,4 +20,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-linux_loog/study/bolt/
+./study/bolt/
